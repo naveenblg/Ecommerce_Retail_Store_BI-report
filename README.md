@@ -1,7 +1,7 @@
 # Ecommerce_Retail_Store_BI-report
 Analysis using Power BI, MS Excel
 
-Ecommerce retail store dashboard - Power BI, MS Excel
+Ecommerce retail store dashboard - Power BI, MS Excel - 
 Self-project | From kaggle dataset | July 2025
 * Objective: Owner of retail store wants us to help them create a dashboard to track & analyze their online sales across India.
 * Created an interactive dashboard to track & analyze online sales data.
