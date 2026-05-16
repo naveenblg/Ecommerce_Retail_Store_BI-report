@@ -1,5 +1,5 @@
 # Ecommerce_Retail_Store_BI-report
-Analysis using Power BI, MS Excel
+Ecommerce_Retail_Store_BI-report Analysis using Power BI, MS Excel
 
 Ecommerce retail store dashboard - Power BI, MS Excel - 
 Self-project | From kaggle dataset | July 2025
